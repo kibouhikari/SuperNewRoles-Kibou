@@ -1,7 +1,7 @@
 SuperNewRoles
-\n---------------\nSuperNewRoles\n作成:ykundesu\nSuperNewRolesをプレイしてくれてありがとうございます!!!!\n---------------
+\n---------------\nSuperNewRoles-Kibou\n作成:kibou102\nSuperNewRoles-Kibouをプレイしてくれてありがとうございます!!!!\n---------------
 秒
-<size=200%><color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles</color>の最新情報</size>\n<size=150%>バージョン:{0}</size>\n{1}
+<size=200%><color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles-Kibou</color>の最新情報</size>\n<size=150%>バージョン:{0}</size>\n{1}
 通常タスク
 ショートタスク
 ロングタスク
@@ -46,12 +46,12 @@ SuperNewRoles
 メロン
 クラッシュブルー
 ライトグリーン
-<color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles</color>Hats
+<color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles-Kibou</color>Hats
 マップ改造
 (エアーシップ)シークレットルーム
 反転マップを有効にする
 プリセット
-<color=#ffa500> S u p e r </color><color=#ff0000>N e w</color><color=#00ff00> R o l e s </color>の設定
+<color=#ffa500> S u p e r </color><color=#ff0000>N e w</color><color=#00ff00> R o l e s - K i b o u </color>の設定
 <color=#ff0000>インポスター</color>の設定
 <color=#808080>第三陣営</color>の設定
 <color=#00ffff>クルーメイト</color>の設定
@@ -86,12 +86,12 @@ SuperNewRoles
 プリセット8
 プリセット9
 プリセット10
-Create By ykundesu
-Create By ykundesu
-SuperNewRoles v{0}
+Create By kibou102
+Create By kibou102
+SuperNewRoles-Kibou v{0}
 自動アップデート済みです。再起動すると適用されます。最新バージョン:v{0}
 設定
-通常設定&<color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles</color>の設定
+通常設定&<color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles-Kibou</color>の設定
 人数
 サーバーURLを非表示にする
 自動アップデート
@@ -108,10 +108,10 @@ SuperNewRoles v{0}
 オン
 オフ
 Tabを押して詳細を表示
-ホストに<color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles</color>が入っていません。
-ホストの<color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles</color>のバージョンが違います。
-{0}に<color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles</color>が入っていません。
-{0}の<color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles</color>のバージョンが違います。
+ホストに<color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles-Kibou</color>が入っていません。
+ホストの<color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles-Kibou</color>のバージョンが違います。
+{0}に<color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles-Kibou</color>が入っていません。
+{0}の<color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles-Kibou</color>のバージョンが違います。
 廃村
 モード設定
 モード

@@ -1,20 +1,20 @@
 {
 
  "rolemodname" : {
-        "0" : "SuperNewRoles" ,
+        "0" : "SuperNewRoles-Kibou" ,
         "11" : "SuperNewRoles"
         } ,
  "StartLogText" : {
-        "0" : "\\n---------------\\nSuperNewRoles\\nCreate By ykundesu\\nThank You Play SuperNewRoles\\n---------------" ,
-        "11" : "\\n---------------\\nSuperNewRoles\\n\u4f5c\u6210:ykundesu\\nSuperNewRoles\u3092\u30d7\u30ec\u30a4\u3057\u3066\u304f\u308c\u3066\u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3059!!!!\\n---------------"
+        "0" : "\\n---------------\\nSuperNewRoles-Kibou\\nCreate By kibou102\\nThank You Play SuperNewRoles-Kibou\\n---------------" ,
+        "11" : "\\n---------------\\nSuperNewRoles-Kibou\\n\u4f5c\u6210:kibou102\\nSuperNewRoles-Kibou\u3092\u30d7\u30ec\u30a4\u3057\u3066\u304f\u308c\u3066\u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3059!!!!\\n---------------"
         } ,
  "second" : {
         "0" : "Second" ,
         "11" : "\u79d2"
         } ,
  "announcementUpdate" : {
-        "0" : "<size=125%><color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles</color> NewData</size>\\nVersion:{0}\\n{1}" ,
-        "11" : "<size=200%><color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles</color>\u306e\u6700\u65b0\u60c5\u5831</size>\\n<size=150%>\u30d0\u30fc\u30b8\u30e7\u30f3:{0}</size>\\n{1}"
+        "0" : "<size=125%><color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles-Kibou</color> NewData</size>\\nVersion:{0}\\n{1}" ,
+        "11" : "<size=200%><color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles-Kibou</color>\u306e\u6700\u65b0\u60c5\u5831</size>\\n<size=150%>\u30d0\u30fc\u30b8\u30e7\u30f3:{0}</size>\\n{1}"
         } ,
  "GameCommonTasks" : {
         "0" : "Common Tasks" ,
@@ -194,7 +194,7 @@
         } ,
  "Hat_SNR" : {
         "0" : "<color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles</color>Hats" ,
-        "11" : "<color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles</color>Hats"
+        "11" : "<color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles-Kibou</color>Hats"
         } ,
  "MapCustom" : {
         "0" : "Map Custom" ,
@@ -214,7 +214,7 @@
         } ,
  "SettingSuperNewRoles" : {
         "0" : "<color=#ffa500> S u p e r </color><color=#ff0000>N e w </color><color=#00ff00>R o l e s</color> Settings" ,
-        "11" : "<color=#ffa500> S u p e r </color><color=#ff0000>N e w</color><color=#00ff00> R o l e s </color>\u306e\u8a2d\u5b9a"
+        "11" : "<color=#ffa500> S u p e r </color><color=#ff0000>N e w</color><color=#00ff00> R o l e s - K i b o u </color>\u306e\u8a2d\u5b9a"
         } ,
  "SettingImpostor" : {
         "0" : "<color=#ff0000>Impostor</color> Settings" ,
@@ -353,16 +353,16 @@
         "11" : "\u30d7\u30ea\u30bb\u30c3\u30c810"
         } ,
  "creditsMain" : {
-        "0" : "Create By ykundesu" ,
-        "11" : "Create By ykundesu"
+        "0" : "Create By kibou102" ,
+        "11" : "Create By kibou102"
         } ,
  "creditsFull" : {
-        "0" : "Create By ykundesu" ,
-        "11" : "Create By ykundesu"
+        "0" : "Create By kibou102" ,
+        "11" : "Create By kibou102"
         } ,
  "creditsVersion" : {
-        "0" : "SuperNewRoles v{0}" ,
-        "11" : "SuperNewRoles v{0}"
+        "0" : "SuperNewRoles-Kibou v{0}" ,
+        "11" : "SuperNewRoles-Kibou v{0}"
         } ,
  "creditsUpdateOk" : {
         "0" : "It has been updated. It will be applied when you reboot. Latest Version:v{0}" ,
@@ -374,7 +374,7 @@
         } ,
  "moreOptionsText" : {
         "0" : "Normal Setting&<color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles</color> Settings" ,
-        "11" : "\u901a\u5e38\u8a2d\u5b9a&<color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles</color>\u306e\u8a2d\u5b9a"
+        "11" : "\u901a\u5e38\u8a2d\u5b9a&<color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles-Kibou</color>\u306e\u8a2d\u5b9a"
         } ,
  "SettingPlayerCountName" : {
         "0" : "Role Player" ,
@@ -441,20 +441,20 @@
         "11" : "Tab\u3092\u62bc\u3057\u3066\u8a73\u7d30\u3092\u8868\u793a"
         } ,
  "ErrorHostNoVersion" : {
-        "0" : "Your host does not have <color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles</color>." ,
-        "11" : "\u30db\u30b9\u30c8\u306b<color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles</color>\u304c\u5165\u3063\u3066\u3044\u307e\u305b\u3093\u3002"
+        "0" : "Your host does not have <color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles-Kibou</color>." ,
+        "11" : "\u30db\u30b9\u30c8\u306b<color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles-Kibou</color>\u304c\u5165\u3063\u3066\u3044\u307e\u305b\u3093\u3002"
         } ,
  "ErrorHostChangeVersion" : {
-        "0" : "The host has a different version of <color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles</color>." ,
-        "11" : "\u30db\u30b9\u30c8\u306e<color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles</color>\u306e\u30d0\u30fc\u30b8\u30e7\u30f3\u304c\u9055\u3044\u307e\u3059\u3002"
+        "0" : "The host has a different version of <color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles-Kibou</color>." ,
+        "11" : "\u30db\u30b9\u30c8\u306e<color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles-Kibou</color>\u306e\u30d0\u30fc\u30b8\u30e7\u30f3\u304c\u9055\u3044\u307e\u3059\u3002"
         } ,
  "ErrorClientNoVersion" : {
-        "0" : "You don't have <color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles</color> in {0}." ,
-        "11" : "{0}\u306b<color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles</color>\u304c\u5165\u3063\u3066\u3044\u307e\u305b\u3093\u3002"
+        "0" : "You don't have <color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles-Kibou</color> in {0}." ,
+        "11" : "{0}\u306b<color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles-Kibou</color>\u304c\u5165\u3063\u3066\u3044\u307e\u305b\u3093\u3002"
         } ,
  "ErrorClientChangeVersion" : {
-        "0" : "The version of <color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles</color> in {0} is wrong." ,
-        "11" : "{0}\u306e<color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles</color>\u306e\u30d0\u30fc\u30b8\u30e7\u30f3\u304c\u9055\u3044\u307e\u3059\u3002"
+        "0" : "The version of <color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles-Kibou</color> in {0} is wrong." ,
+        "11" : "{0}\u306e<color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles-Kibou</color>\u306e\u30d0\u30fc\u30b8\u30e7\u30f3\u304c\u9055\u3044\u307e\u3059\u3002"
         } ,
  "HaisonName" : {
         "0" : "Haison" ,

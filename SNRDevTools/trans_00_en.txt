@@ -1,7 +1,7 @@
-SuperNewRoles
-\n---------------\nSuperNewRoles\nCreate By ykundesu\nThank You Play SuperNewRoles\n---------------
+SuperNewRoles-Kibou
+\n---------------\nSuperNewRoles-Kibou\nCreate By kibou102\nThank You Play SuperNewRoles-Kibou\n---------------
 Second
-<size=125%><color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles</color> NewData</size>\nVersion:{0}\n{1}
+<size=125%><color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles-Kibou</color> NewData</size>\nVersion:{0}\n{1}
 Common Tasks
 Short Tasks
 Long Tasks
@@ -86,9 +86,9 @@ Preset 7
 Preset 8
 Preset 9
 Preset 10
-Create By ykundesu
-Create By ykundesu
-SuperNewRoles v{0}
+Create By kibou102
+Create By kibou102
+SuperNewRoles-Kibou v{0}
 It has been updated. It will be applied when you reboot. Latest Version:v{0}
 Options
 Normal Setting&<color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles</color> Settings
@@ -108,10 +108,10 @@ Impostor GhostRole Setting
 On
 Off
 Press Tab For More
-Your host does not have <color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles</color>.
-The host has a different version of <color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles</color>.
-You don't have <color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles</color> in {0}.
-The version of <color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles</color> in {0} is wrong.
+Your host does not have <color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles-Kibou</color>.
+The host has a different version of <color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles-Kibou</color>.
+You don't have <color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles-Kibou</color> in {0}.
+The version of <color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles-Kibou</color> in {0} is wrong.
 Haison
 Mode Setting
 Mode
