@@ -1,8 +1,8 @@
 moto,0,11
-rolemodname,SuperNewRoles-Kibou,SuperNewRoles
-StartLogText,\n---------------\nSuperNewRoles-Kibou\nCreate By kibou102\nThank You Play SuperNewRoles-Kibou\n---------------,\n---------------\nSuperNewRoles-Kibou\n作成:kibou102\nSuperNewRoles-Kibouをプレイしてくれてありがとうございます!!!!\n---------------
+rolemodname,SuperNewRoles_Kibou,SuperNewRoles_Kibou
+StartLogText,\n---------------\nSuperNewRoles_Kibou\nCreate By kibou102\nThank You Play SuperNewRoles_Kibou\n---------------,\n---------------\nSuperNewRoles-Kibou\n作成:kibou102\nSuperNewRoles-Kibouをプレイしてくれてありがとうございます!!!!\n---------------
 second,Second,秒
-announcementUpdate,<size=125%><color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles-Kibou</color> NewData</size>\nVersion:{0}\n{1},<size=200%><color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles-Kibou</color>の最新情報</size>\n<size=150%>バージョン:{0}</size>\n{1}
+announcementUpdate,<size=125%><color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles_Kibou</color> NewData</size>\nVersion:{0}\n{1},<size=200%><color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles_Kibou</color>の最新情報</size>\n<size=150%>バージョン:{0}</size>\n{1}
 GameCommonTasks,Common Tasks,通常タスク
 GameShortTasks,Short Tasks,ショートタスク
 GameLongTasks,Long Tasks,ロングタスク
@@ -47,12 +47,12 @@ colorAshishreddishpurplecolor,Ashish reddish purple color,灰みの赤紫系の�
 colorMelon,Melon,メロン
 colorCrasyublue,Crasyu Blue,クラッシュブルー
 colorLightgreen,Light Green,ライトグリーン
-Hat_SNR,<color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles</color>Hats,<color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles-Kibou</color>Hats
+Hat_SNR,<color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles_Kibou</color>Hats,<color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles_Kibou</color>Hats
 MapCustom,Map Custom,マップ改造
 SecretRoom,(Airship)Secret Room,(エアーシップ)シークレットルーム
 enableMirroMap,enable MirroMap,反転マップを有効にする
 SettingpresetSelection,Preset,プリセット
-SettingSuperNewRoles,<color=#ffa500> S u p e r </color><color=#ff0000>N e w </color><color=#00ff00>R o l e s</color> Settings,<color=#ffa500> S u p e r </color><color=#ff0000>N e w</color><color=#00ff00> R o l e s - K i b o u </color>の設定
+SettingSuperNewRoles,<color=#ffa500> S u p e r </color><color=#ff0000>N e w </color><color=#00ff00>R o l e s _ K i b o u </color> Settings,<color=#ffa500> S u p e r </color><color=#ff0000>N e w</color><color=#00ff00> R o l e s _ K i b o u </color>の設定
 SettingImpostor,<color=#ff0000>Impostor</color> Settings,<color=#ff0000>インポスター</color>の設定
 SettingNeutral,<color=#808080>Neutral</color> Settings,<color=#808080>第三陣営</color>の設定
 SettingCrewmate,<color=#a9ceec>Crewmate</color> Settings,<color=#00ffff>クルーメイト</color>の設定
@@ -89,10 +89,10 @@ preset9,Preset 9,プリセット9
 preset10,Preset 10,プリセット10
 creditsMain,Create By kibou102,Create By kibou102
 creditsFull,Create By kibou102,Create By kibou102
-creditsVersion,SuperNewRoles-Kibou v{0},SuperNewRoles-Kibou v{0}
+creditsVersion,SuperNewRoles_Kibou v{0},SuperNewRoles_Kibou v{0}
 creditsUpdateOk,It has been updated. It will be applied when you reboot. Latest Version:v{0},自動アップデート済みです。再起動すると適用されます。最新バージョン:v{0}
 modOptionsText,Options,設定
-moreOptionsText,Normal Setting&<color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles</color> Settings,通常設定&<color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles-Kibou</color>の設定
+moreOptionsText,Normal Setting&<color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles_Kibou</color> Settings,通常設定&<color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles_Kibou</color>の設定
 SettingPlayerCountName,Role Player,人数
 CustomStremerMode,Hide Server Url,サーバーURLを非表示にする
 CustomAutoUpdate,Auto Update,自動アップデート
