@@ -1,7 +1,7 @@
-SuperNewRoles
-\n---------------\nSuperNewRoles\nCreate By ykundesu\nThank You Play SuperNewRoles\n---------------
+SuperNewRoles_Kibou
+\n---------------\nSuperNewRoles_Kibou\nCreate By kibou102\nThank You Play SuperNewRoles_Kibou\n---------------
 Second
-<size=125%><color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles</color> NewData</size>\nVersion:{0}\n{1}
+<size=125%><color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles_Kibou</color> NewData</size>\nVersion:{0}\n{1}
 Common Tasks
 Short Tasks
 Long Tasks
@@ -46,12 +46,12 @@ Ashish reddish purple color
 Melon
 Crasyu Blue
 Light Green
-<color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles</color>Hats
+<color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles_Kibou</color>Hats
 Map Custom
 (Airship)Secret Room
 enable MirroMap
 Preset
-<color=#ffa500> S u p e r </color><color=#ff0000>N e w </color><color=#00ff00>R o l e s</color> Settings
+<color=#ffa500> S u p e r </color><color=#ff0000>N e w </color><color=#00ff00>R o l e s </color> Settings
 <color=#ff0000>Impostor</color> Settings
 <color=#808080>Neutral</color> Settings
 <color=#a9ceec>Crewmate</color> Settings
@@ -86,12 +86,12 @@ Preset 7
 Preset 8
 Preset 9
 Preset 10
-Create By ykundesu
-Create By ykundesu
-SuperNewRoles v{0}
+Create By kibou102
+Create By kibou102
+SuperNewRoles_Kibou v{0}
 It has been updated. It will be applied when you reboot. Latest Version:v{0}
 Options
-Normal Setting&<color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles</color> Settings
+Normal Setting&<color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles_Kibou</color> Settings
 Role Player
 Hide Server Url
 Auto Update
@@ -108,10 +108,10 @@ Impostor GhostRole Setting
 On
 Off
 Press Tab For More
-Your host does not have <color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles</color>.
-The host has a different version of <color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles</color>.
-You don't have <color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles</color> in {0}.
-The version of <color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles</color> in {0} is wrong.
+Your host does not have <color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles_Kibou</color>.
+The host has a different version of <color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles_Kibou</color>.
+You don't have <color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles_Kibou</color> in {0}.
+The version of <color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles_Kibou</color> in {0} is wrong.
 Haison
 Mode Setting
 Mode

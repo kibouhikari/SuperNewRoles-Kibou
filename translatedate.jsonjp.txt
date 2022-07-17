@@ -2,17 +2,17 @@
 
  "rolemodname" : {
 
-        "0" : "SuperNewRoles" ,
+        "0" : "SuperNewRoles_Kibou" ,
 
-        "11" : "SuperNewRoles"
+        "11" : "SuperNewRoles_Kibou"
 
         } ,
 
  "StartLogText" : {
 
-        "0" : "\\n---------------\\nSuperNewRoles\\nCreate By ykundesu\\nThank You Play SuperNewRoles\\n---------------" ,
+        "0" : "\\n---------------\\nSuperNewRoles_Kibou\\nCreate By kibou102\\nThank You Play SuperNewRoles_Kibou\\n---------------" ,
 
-        "11" : "\\n---------------\\nSuperNewRoles\\n作成:ykundesu\\nSuperNewRolesをプレイしてくれてありがとうございます!!!!\\n---------------"
+        "11" : "\\n---------------\\nSuperNewRoles_Kibou\\n作成:kibou102\\nSuperNewRoles_Kibouをプレイしてくれてありがとうございます!!!!\\n---------------"
 
         } ,
 
@@ -298,25 +298,25 @@
 
  "creditsMain" : {
 
-        "0" : "Create By ykundesu" ,
+        "0" : "Create By kibou102" ,
 
-        "11" : "Create By ykundesu"
+        "11" : "Create By kibou102"
 
         } ,
 
  "creditsFull" : {
 
-        "0" : "Create By ykundesu" ,
+        "0" : "Create By kibou102" ,
 
-        "11" : "Create By ykundesu"
+        "11" : "Create By kibou102"
 
         } ,
 
  "creditsVersion" : {
 
-        "0" : "SuperNewRoles v{0}" ,
+        "0" : "SuperNewRoles_Kibou v{0}" ,
 
-        "11" : "SuperNewRoles v{0}"
+        "11" : "SuperNewRoles_Kibou v{0}"
 
         } ,
 
@@ -418,33 +418,33 @@
 
  "ErrorHostNoVersion" : {
 
-        "0" : "Your host does not have <color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles</color>." ,
+        "0" : "Your host does not have <color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles_Kibou</color>." ,
 
-        "11" : "ホストに<color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles</color>が入っていません。"
+        "11" : "ホストに<color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles_Kibou</color>が入っていません。"
 
         } ,
 
  "ErrorHostChangeVersion" : {
 
-        "0" : "The host has a different version of <color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles</color>." ,
+        "0" : "The host has a different version of <color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles_Kibou</color>." ,
 
-        "11" : "ホストの<color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles</color>のバージョンが違います。"
+        "11" : "ホストの<color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles_Kibou</color>のバージョンが違います。"
 
         } ,
 
  "ErrorClientNoVersion" : {
 
-        "0" : "You don't have <color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles</color> in {0}." ,
+        "0" : "You don't have <color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles_Kibou</color> in {0}." ,
 
-        "11" : "{0}に<color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles</color>が入っていません。"
+        "11" : "{0}に<color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles_Kibou</color>が入っていません。"
 
         } ,
 
  "ErrorClientChangeVersion" : {
 
-        "0" : "The version of <color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles</color> in {0} is wrong." ,
+        "0" : "The version of <color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles_Kibou</color> in {0} is wrong." ,
 
-        "11" : "{0}の<color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles</color>のバージョンが違います。"
+        "11" : "{0}の<color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles_Kibou</color>のバージョンが違います。"
 
         } ,
 
